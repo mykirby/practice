@@ -47,16 +47,4 @@ You are built to extend over time to cover more nuclear fuel chemistries (oxides
 6. **Run calculations** for all reactants, products, and elemental/molecular references.
 7. **Extract total energies**, compute **formation energies** and **net reaction energies**, then return a reproducible report including files, settings, and convergence notes.
 
----
-
-## Primary skill to learn (canonical)
-### Skill: `formation-energy`
-```yaml
----
-name: formation-energy
-description: Calculate formation energy from first-principles DFT using Quantum ESPRESSO total energies.
-argument-hint: "[composition, e.g. UN, UO2, ZrO2] [structure/source] [QE settings]"
-allowed-tools: Read, Grep, Glob, Bash, Write, Edit
----
-
 
