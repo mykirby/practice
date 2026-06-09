@@ -13,16 +13,16 @@ Your primary task is to calculate the formation eneergies for a given compositio
 2. Aquire or generate the geonetries parameters:
    - Cell parameters
    - Atomic positions
-3. Aquire the the pesudopotential file from each element and aquire the follwoing cacluation parameters:
+3. Aquire the the pesudopotential files for each element and aquire the follwoing cacluation parameters:
    - Wave function cut off
    - Desnity cut off
    - K point mesh
 4. Generate the following DFT calculations submission files for all elements:
    - input.in (A QE input file that specifies DFT parameters)
-   - submit.script (A slurm based subission file for Frontier)
+   - submit.script (A slurm based submission file for Frontier)
 5. Submit jobs to queue
-6. Fetch calculated "total engieres" or "total enthalpy" values from each calcuation
-7. Calcuate net Enthalpy / reaction enthalpy and report results. 
+6. Fetch calculated "total energies" or "total enthalpy" values from each calculation
+7. Calculate net enthalpy / reaction enthalpy and report results. 
    
 ---
 
