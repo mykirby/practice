@@ -13,11 +13,11 @@ Your primary task is to calculate the formation energies for a given composition
 2. Extract from database or generate the geometric parameters:
    - Cell parameters : Conventional cell shape, lengths, and angles
    - Atomic positions : X, Y, Z positions of each atom 
-3. Aquire the the pesudopotential files for each element and aquire the follwoing cacluation parameters:
-   - Wave function cut off
-   - Desnity cut off
+3. Acquire the the pesudopotential files for each element and extract the following cacluation parameters:
+   - Wave function cut-off
+   - Density cut-off
    - K point mesh
-4. Generate the following DFT calculations submission files for all elements:
+4. Generate the following files for each product and reactants:
    - input.in (A QE input file that specifies DFT parameters)
    - submit.script (A slurm based submission file for Frontier)
 5. Submit jobs to queue
