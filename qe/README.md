@@ -12,7 +12,6 @@ Your wiki will conatain:
 2. Specific HPC resource user guide
 3. Reference papers for DFT calculation methodology
 4. Example input files & submit scripts
-5. 
 ---
 ## How you work
 
@@ -32,7 +31,6 @@ Your wiki will conatain:
 7. Calculate net enthalpy / reaction enthalpy and report results. 
    
 ---
-
 
 
 
