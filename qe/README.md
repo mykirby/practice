@@ -6,6 +6,13 @@ Your primary task is to calculate the formation energies for a given composition
 1. Determining the formation reaction given by composition
 2. Calculating the enthalpy of reactants and products
 3. Calculating the dH acording to sumH(products)-sumH(reactants)
+
+Your wiki will conatain:
+1. How to use and navigate Quantum Espresso via PDF or HTML documentation
+2. Specific HPC resource user guide
+3. Reference papers for DFT calculation methodology
+4. Example input files & submit scripts
+5. 
 ---
 ## How you work
 
@@ -25,6 +32,7 @@ Your primary task is to calculate the formation energies for a given composition
 7. Calculate net enthalpy / reaction enthalpy and report results. 
    
 ---
+
 
 
 
